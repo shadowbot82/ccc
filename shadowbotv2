@@ -564,7 +564,7 @@ echo -e $lightgreen" 103) GoblinWorldGenerator"
 
 echo -e ""
 echo -e $white" [<]=====================================================[>]"
-echo -e $red"                     00) Keluar Njengg...   
+echo -e $red"                     00) Keluar Njengg...  " 
 echo -e $white" [<]=====================================================[>]"
 echo -e $lightgreen""
 read -p "[shadow@Tools]> " act;
@@ -2980,6 +2980,7 @@ echo -e $lightgreen" installing katoolin "
 sleep 1
 apt update && apt upgrade
 pkg install git
+pkg install python2
 pkg install python
 pkg install gnupg
 pkg install nano
