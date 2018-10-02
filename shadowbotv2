@@ -425,9 +425,9 @@ echo -e $lightgreen" https://www.youtube.com/c/SHADOWBOTCHANNEL"
 sleep 1
 
 echo ""
-echo -e $yellow" [<]=========================================================[>]"
+echo -e $yellow" [<]=====================================================[>]"
 echo -e $red"             Silahkan Pilih Tools Yang Lu Suka  ..."
-echo -e $yellow" [<]=========================================================[>]"
+echo -e $yellow" [<]=====================================================[>]"
 echo ""
 
 echo -e $red" 01) Red Hawk"                                                           
@@ -458,13 +458,13 @@ echo -e $lightgreen" 25) scanner tools "
 echo -e $lightgreen" 26) bing dorker "  
 
 echo ""
-echo -e $yellow" [<]=========================================================[>]"
+echo -e $yellow" [<]=====================================================[>]"
 echo -e $lightgreen"                  Kalo Lu Mau Di Akui Pro"
 echo -e $lightgreen"           Lu Harus Akui Diri Lu Bahwa Lu Itu Noob "
-echo -e $yellow" [<]=========================================================[>]"
+echo -e $yellow" [<]=====================================================[>]"
 echo ""
 
-echo -e $red" 27) kattolin"                                                                
+echo -e $red" 27) katoolin"                                                                
 echo -e $red" 28) arch linux"                                                          
 echo -e $red" 29) linux fedora"                                                         
 echo -e $red" 30) hash-buster"                                              
@@ -492,10 +492,10 @@ echo -e $lightgreen" 51) spammer-grab sms"
 echo -e $lightgreen" 52) spammer call toko-pedia"      
 
 echo ""
-echo -e $yellow" [<]=========================================================[>]"
+echo -e $yellow" [<]=====================================================[>]"
 echo -e $lightgreen"              Kalo Ada Orang Yg Sering BACOTIN Lu "
 echo -e $lightgreen"   BACOTIN Balik Aja, Kenapa? Karna Biar Lu Ga Di Katain Cupu"
-echo -e $yellow" [<]=========================================================[>]"
+echo -e $yellow" [<]=====================================================[>]"
 
 
 
@@ -527,10 +527,10 @@ echo -e $lightgreen" 77) Xlpy"
 echo -e $lightgreen" 78) Phising Buat ML&COC"
 
 
-echo -e $yellow" [<]=========================================================[>]"
+echo -e $yellow" [<]=====================================================[>]"
 echo -e $lightgreen"               Jangan Malu Jika Lu Di Katain Tolol "
 echo -e $lightgreen"            Karna Belum Tentu Dia Lebih Hebat Dari Lu"
-echo -e $yellow" [<]=========================================================[>]"
+echo -e $yellow" [<]=====================================================[>]"
 
 
 
@@ -563,9 +563,9 @@ echo -e $lightgreen" 102) Choicebot"
 echo -e $lightgreen" 103) GoblinWorldGenerator"
 
 echo -e ""
-echo -e $white" [<]========================================================[>]"
+echo -e $white" [<]=====================================================[>]"
 echo -e $red"                     00) Keluar Njengg...   
-echo -e $white" [<]========================================================[>]"
+echo -e $white" [<]=====================================================[>]"
 echo -e $lightgreen""
 read -p "[shadow@Tools]> " act;
 
